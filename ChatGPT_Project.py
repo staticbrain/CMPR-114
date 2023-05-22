@@ -1,7 +1,7 @@
 import re # Used for removing non-lowercase letters
 import openai
 
-openai.api_key = "copy and paste from document shared earlier in semester"
+openai.api_key = " " #copy and paste from presentation
 
 class Hangman:
     def __init__(self):
